@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Station map script for the seismic network in the region of Cotopaxi, Ecuador. 
+
 # In[185]:
 
 
