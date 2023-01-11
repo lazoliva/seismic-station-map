@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# This code is used for station map and noise pathways ploting for Ambient Seismic Noise.  
+# The first part of this script plots a Seismic Station map for the region of Turrialba in Costa Rica and the second part plots the different
+# inter-station noise paths of the network. 
+
 # In[1]:
 
 
